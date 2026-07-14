@@ -50,7 +50,7 @@ All Traffic
 
 ### Screenshot
 
-![](screenshots/06-SecurityGroups/alb-sg.png)
+![](../screenshots/06-SecurityGroups/alb-sg.png)
 
 ---
 
@@ -77,7 +77,7 @@ Receives traffic only from the Application Load Balancer.
 
 ### Screenshot
 
-![](screenshots/06-SecurityGroups/collector-sg.png)
+![](../screenshots/06-SecurityGroups/collector-sg.png)
 
 ---
 
@@ -104,7 +104,7 @@ Processes requests received from the Collector Service.
 
 ### Screenshot
 
-![](screenshots/06-SecurityGroups/analyzer-sg.png)
+![](../screenshots/06-SecurityGroups/analyzer-sg.png)
 
 ---
 
@@ -132,7 +132,7 @@ Hosts the dashboard and communicates with Amazon RDS.
 
 ### Screenshot
 
-![](screenshots/06-SecurityGroups/service-sg.png)
+![](../screenshots/06-SecurityGroups/service-sg.png)
 
 ---
 
@@ -155,7 +155,7 @@ All Traffic
 
 ### Screenshot
 
-![](screenshots/06-SecurityGroups/archive-sg.png)
+![](../screenshots/06-SecurityGroups/archive-sg.png)
 
 ---
 
@@ -178,7 +178,7 @@ Default
 
 ### Screenshot
 
-![](screenshots/06-SecurityGroups/rds-sg.png)
+![](../screenshots/06-SecurityGroups/rds-sg.png)
 
 ---
 

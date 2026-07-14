@@ -179,19 +179,19 @@ Security measures implemented:
 
 ## Stage
 
-![](screenshots/20-apigateway/stages.png)
+![](../screenshots/20-apigateway/stages.png)
 
 ---
 
 ## VPC Link
 
-![](screenshots/20-apigateway/vpclink.png)
+![](../screenshots/20-apigateway/vpclink.png)
 
 ---
 
 ## Integration
 
-![](screenshots/20-apigateway/integrations.png)
+![](../screenshots/20-apigateway/integrations.png)
 
 ---
 

@@ -124,11 +124,11 @@ Provides the dashboard and metadata APIs.
 
 ### Screenshot
 
-![](screenshots/10-Service/service-api.png)
+![](../screenshots/10-Service/service-api.png)
 
-![](screenshots/10-Service/metadata-api.png)
+![](../screenshots/10-Service/metadata-api.png)
 
-![](screenshots/21-dashboard/dashboard.png)
+![](../screenshots/21-dashboard/dashboard.png)
 
 ---
 
@@ -152,11 +152,11 @@ Provides secure backup storage.
 
 ### Screenshot
 
-![](screenshots/11-Archive/lsblk.png)
+![](../screenshots/11-Archive/lsblk.png)
 
-![](screenshots/11-Archive/exports.png)
+![](../screenshots/11-Archive/exports.png)
 
-![](screenshots/11-Archive/filesys.png)
+![](../screenshots/11-Archive/filesys.png)
 
 ---
 

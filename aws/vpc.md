@@ -100,7 +100,7 @@ Amazon VPC was selected because it provides:
 
 ## VPC Overview
 
-![](screenshots/01-vpc/vpc.png)
+![](../screenshots/01-vpc/vpc.png)
 
 ---
 

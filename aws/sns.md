@@ -153,13 +153,13 @@ This integration enables automatic alerting without requiring manual monitoring.
 
 ## Subscription
 
-![](screenshots/15-SNS/sns.png)
+![](../screenshots/15-SNS/sns.png)
 
 ---
 
 ## Email Confirmation
 
-![](screenshots/15-SNS/email-notification.png)
+![](../screenshots/15-SNS/email-notification.png)
 
 ---
 

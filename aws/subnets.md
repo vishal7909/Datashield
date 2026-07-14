@@ -244,31 +244,31 @@ Archive Server communicates internally through private networking.
 
 ### Subnets Overview
 
-![Subnets](screenshots/02-subnets/subnets.png)
+![Subnets](../screenshots/02-subnets/subnets.png)
 
-![NAT](screenshots/05-NATgateway/natgatway.png)
+![NAT](../screenshots/05-NATgateway/natgatway.png)
 
 ## Public Route Table
 
-![](screenshots/03-RouteTables/public-rt.png)
+![](../screenshots/03-RouteTables/public-rt.png)
 
 ---
 
 ## Private Route Table
 
-![](screenshots/03-RouteTables/private-rt.png)
+![](../screenshots/03-RouteTables/private-rt.png)
 
 ---
 
 ## Archive Route Table
 
-![](screenshots/03-RouteTables/archive-rt.png)
+![](../screenshots/03-RouteTables/archive-rt.png)
 
 ---
 
 ## Database Route Table
 
-![](screenshots/03-RouteTables/db-rt.png)
+![](../screenshots/03-RouteTables/db-rt.png)
 
 ---
 

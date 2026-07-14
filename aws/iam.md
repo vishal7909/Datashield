@@ -168,30 +168,30 @@ IAM Roles were chosen because they:
 
 ### Collector IAM Role
 
-![Collector Role](screenshots/07-IAM/collector-role.png)
+![Collector Role](../screenshots/07-IAM/collector-role.png)
 
 ---
 
 ### Analyzer IAM Role
 
-![Analyzer Role](screenshots/07-IAM/analyzer-role.png)
+![Analyzer Role](../screenshots/07-IAM/analyzer-role.png)
 
 ---
 
 ### Lambda IAM Role
 
-![Lambda Role](screenshots/07-IAM/lambda-role.png)
+![Lambda Role](../screenshots/07-IAM/lambda-role.png)
 
 ---
 
 ### RDS IAM Role
 
-![RDS Role](screenshots/07-IAM/rds-role.png)
+![RDS Role](../screenshots/07-IAM/rds-role.png)
 
 ---
 ### Service IAM Role
 
-![Service Role](screenshots/07-IAM/lambda-role.png)
+![Service Role](../screenshots/07-IAM/lambda-role.png)
 
 ---
 
