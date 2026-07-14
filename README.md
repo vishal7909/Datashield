@@ -306,19 +306,6 @@ The DataShield platform was validated through end-to-end functional testing to e
 ➡️ [Testing Documentation](docs/07-Testing.md)
 
 
-## 🚀 Future Improvements
-
-- Infrastructure as Code using Terraform.
-- CI/CD pipeline using GitHub Actions.
-- Docker containerization.
-- Kubernetes deployment using Amazon EKS.
-- AWS Secrets Manager for database credentials.
-- AWS WAF for API protection.
-- Multi-AZ RDS deployment.
-- AWS Backup integration.
-- CloudFront integration.
-- AWS X-Ray for distributed tracing.
-
 ## ✅ Conclusion
 
 DataShield demonstrates the implementation of a secure, scalable, and cloud-native data processing platform using Amazon Web Services. The project combines AWS networking, Linux administration, encrypted storage, monitoring, and modern REST API development to simulate a production-grade architecture.
