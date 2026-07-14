@@ -188,8 +188,7 @@ Dashboard
 
 | Documentation | Description |
 |--------------|-------------|
-| 🚀 **[AWS Infrastructure Guide](aws/README.md)** 
-| Complete documentation of all AWS services used in the DataShield project |
+| 🚀 **[AWS Infrastructure Guide](aws/README.md)** | Complete documentation of all AWS services used in the DataShield project |
 
 ---
 
