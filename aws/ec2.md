@@ -34,7 +34,7 @@ Each instance performs a dedicated responsibility, following a microservices arc
 
 ### Screenshot
 
-![](screenshots/04-EC2/ec2-instances.png)
+![](../screenshots/04-EC2/ec2-instances.png)
 
 # Collector EC2
 
@@ -61,9 +61,9 @@ Acts as the entry point for incoming requests.
 
 ### Screenshot
 
-![](screenshots/08-Collector/collector-service.png)
+![](../screenshots/08-Collector/collector-service.png)
 
-![](screenshots/08-Collector/health-api.png)
+![](../screenshots/08-Collector/health-api.png)
 
 ---
 
@@ -92,9 +92,9 @@ Processes data received from the Collector.
 
 ### Screenshot
 
-![](screenshots/09-Analyzer/api.png)
+![](../screenshots/09-Analyzer/api.png)
 
-![](screenshots/09-Analyzer/analyzer-service.png)
+![](../screenshots/09-Analyzer/analyzer-service.png)
 
 ---
 
