@@ -175,13 +175,13 @@ Benefits:
 
 ## CloudWatch Dashboard
 
-![](../screenshots/14-CloudWatch/cloudwatch-dashboard.png)
+![](../screenshots/14-Cloudwatch/cloudwatch-dashboard.png)
 
 ---
 
 ## CloudWatch Alarm
 
-![](../screenshots/14-CloudWatch/alarms.png)
+![](../screenshots/14-Cloudwatch/alarms.png)
 
 ---
 
