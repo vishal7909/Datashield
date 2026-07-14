@@ -73,7 +73,7 @@ DataShield follows a secure multi-tier cloud architecture deployed within an Ama
 The following diagram illustrates the complete DataShield architecture.
 
 <p align="center">
-  <img src="assets/architecture.png" width="900">
+  <img src="screenshots/architecture.png" width="900">
 </p>
 
 *Figure 1: High-Level DataShield AWS Architecture*

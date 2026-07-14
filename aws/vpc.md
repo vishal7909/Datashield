@@ -100,8 +100,6 @@ Amazon VPC was selected because it provides:
 
 ## VPC Overview
 
-> Insert screenshot here
-
 ![](screenshots/01-vpc/vpc.png)
 
 ---
