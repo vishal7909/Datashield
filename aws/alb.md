@@ -164,7 +164,7 @@ Security Features:
 
 ## ALB Overview
 
-![](../screenshots/16-ALB/collector-internal alb.png)
+![](../screenshots/16-ALB/collector-internal-alb.png)
 
 ---
 
