@@ -205,19 +205,19 @@ No manual configuration is required after launch.
 
 ## Auto Scaling Group
 
-![](../screenshots/19-AutoScaling/asg.png)
+![](../screenshots/19-Autoscaling/asg.png)
 
 ---
 
 ## Activity History
 
-![](../screenshots/19-AutoScaling/asg-activity.png)
+![](../screenshots/19-Autoscaling/asg-activity.png)
 
 ---
 
 ## Launch Template
 
-![](../screenshots/19-AutoScaling/launchtemplate.png)
+![](../screenshots/19-Autoscaling/launchtemplate.png)
 
 ---
 
